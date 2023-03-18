@@ -16,9 +16,11 @@ Very high accuracy (>85%) in mines, crash, etc.
 - **NOTE:** DO *NOT* WIN OVER 10K ROBUX IN THE SAME DAY USING THIS. Bloxflip staff will check your win logs and catch on because of the high win rate / accuracy.
 
 Q: What browsers are supported?
+
 A: Currently, most modern browsers that are compatible with selenium such as Chrome, Brave, OperaGX, Edge, and Firefox are supported. Safari may work too, but it has not been tested as it uses MacOS.
 
 Q: Crashed with error code 400 : Invalid Website.
+
 A: This means it could not find an instance of bloxflip running in your browser. Try restarting your browser or using a different one. This will be fixed in a future update to be more reliable.
 
 TODO:
