@@ -28,7 +28,7 @@ TODO:
 - Use pypuppeteer or playwright instead of hiddenselenium which is outdated.
 - Convert into a discord bot.
 - Make predictions based on round ids instead of injecting into browser.
-- Fix random crashes 
+- Fix random crashes (MOSTLY DONE)
 - Implement support for MacOS and Linux.
 - Change color scheme based on system color settings. (DONE)
 
