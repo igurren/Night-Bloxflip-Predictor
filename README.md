@@ -4,6 +4,8 @@ Bloxflip Predictor written in Python using customtkinter and hiddenselenium
 
 Very high accuracy (>90%) in mines, crash, etc. 
 
+JULY UPDATE!
+
 **HOW TO USE:**
 1. Make sure your anti-virus is not deleting the file - this happens because your antivirus detects that hiddenselenium is injecting into bloxflip (needed for the predictor). If it is, turn it off and then back on after running the file.
 
